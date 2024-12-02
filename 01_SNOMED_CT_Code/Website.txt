@@ -1,0 +1,2 @@
+xhttps://github.com/physionetchallenges/physionetchallenges.github.io/blob/master/2020/Dx_map.csv
+https://github.com/JaeBinCHA7/ECG-Multi-Label-Classification-Using-Multi-Model/blob/main/data_info/Chapman_Ningbo_ECG_DB_Labeling_Info.csv
