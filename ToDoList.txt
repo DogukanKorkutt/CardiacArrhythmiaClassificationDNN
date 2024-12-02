@@ -1,0 +1,23 @@
+** To-Do **
+* Sunum 25. sayfayı tamamla 
+* With/Without additional data ayrımı için yeni jupyter aç
+
+
+** DONE **
+* Başka additional cardiac conditions TRUE FALSE
+* target ekle [0,0,0,0,1] gibi 
+* İlk olarak merged edilmemiş code ve nameleri de 5 dosyaya eklensin
+* merged edilmemiş hallerinindeki Rhythm değerini bul 
+* SnomedCode, DiagnosisName, RawRhythmCode, RawRhythm, MergedSnomedCode, MergedDiagnosisName, MergedRhythmCode, MergedRhythm olmalı
+* Kodlu değişkenleri 02 deki koda sil
+* 6180003 // 212 değer
+* '' işareti  // 70 değer
+* kaç çeşit ve sayı Merged Rhythm var incele
+* merge öncesi ve sonrası rhythm analizleri yap
+* 0 zero value cikartilmali mi age degerinde ?
+* Pre mi post process mi yaptigin is arastir
+* Sunumda bazi tablolarin icindeki degerler bana ait degil duzelt
+* Yayın sectionları ayarla
+* Macden WAP hastalarını bul ve düzenle
+* Sunum 18 ve 19 sayfaları tamamla
+* Tabloları yayına taşı
