@@ -1,5 +1,5 @@
 ** To-Do **
-* Sunum 25. sayfayı tamamla 
+* Sunum 20. ve 25. sayfaları tamamla 
 * With/Without additional data ayrımı için yeni jupyter aç
 
 
@@ -19,5 +19,5 @@
 * Sunumda bazi tablolarin icindeki degerler bana ait degil duzelt
 * Yayın sectionları ayarla
 * Macden WAP hastalarını bul ve düzenle
-* Sunum 18 ve 19 sayfaları tamamla
+* Sunum 18. ve 19. sayfaları tamamla
 * Tabloları yayına taşı
