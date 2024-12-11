@@ -2,7 +2,6 @@
 * Sunum 20. ve 25. sayfaları tamamla 
 * With/Without additional data ayrımı için yeni jupyter aç
 
-
 ** DONE **
 * Başka additional cardiac conditions TRUE FALSE
 * target ekle [0,0,0,0,1] gibi 
