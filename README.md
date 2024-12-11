@@ -24,4 +24,4 @@ This project follows the file and folder structure outlined below:
   Includes Feature Extraction and Selection Methods.
 
 - **05_Models**:  
-  Contains the Models used in the project.
+  Contains the Models used in the project. 
