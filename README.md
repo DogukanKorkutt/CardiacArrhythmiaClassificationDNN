@@ -11,6 +11,9 @@ This project follows the file and folder structure outlined below:
 - **01_Supplementary_Docs**:  
   Includes the Data License and Records File.
 
+- **02_Data_Downloader**:  
+  Provides downloading of data used in the study.
+
 - **02_Diagnosis_PreProcess**:  
   Contains Diagnosis Data Preprocessing Codes (Information Processing, Classification, Exploratory Data Analysis - EDA).
 
