@@ -24,7 +24,7 @@ This project follows the file and folder structure outlined below:
   Contains Denoising Methods.
 
 - **04_Features**:  
-  Includes Feature Extraction and Selection Methods.
+  Includes Feature Extraction.
 
 - **05_Models**:  
   Contains the Models used in the project. 
