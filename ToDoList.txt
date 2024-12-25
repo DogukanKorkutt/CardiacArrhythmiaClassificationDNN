@@ -1,5 +1,4 @@
 ** To-Do **
-* Sunum 25. sayfayı tamamla 
 * Denoising kısmını yap
 
 ** DONE **
@@ -23,3 +22,5 @@
 * Data downloader yap
 * ECGSignal_Preprocess dosyasını tamamla
 * With/Without additional data ayrımı için yeni jupyter aç
+* JS23074 dosyalrında patient ıd yanlış iismlendirilmiş düzeltildi 'S23074'
+* Sunum 25. sayfayı tamamla 
